@@ -9,6 +9,22 @@ body{
 
 }
 
+.footerCl{
+    background-color: rgb(122, 168, 255);
+    position: absolute;
+    bottom: 0px;
+    left:0px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.footerCl2{
+    margin-top: 0.5%;
+    margin-bottom: 0.5%;
+    margin-left: 1%;
+}
+
 .maindiv{
     margin-top: 10%;
 }
