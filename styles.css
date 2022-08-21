@@ -6,7 +6,6 @@
 body{
     background-color: antiquewhite;
     font-family: 'Verdana',Sans-serif;
-
 }
 
 .footerCl{
@@ -26,7 +25,7 @@ body{
 }
 
 .maindiv{
-    margin-top: 10%;
+    margin-top: 2%;
 }
 
 .secondDiv{
@@ -36,7 +35,6 @@ body{
 
 .statusDiv{
     margin-top: 5%;
-    
 }
 
 .githubButton{
