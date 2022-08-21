@@ -5,18 +5,18 @@
 
 body{
     background-color: antiquewhite;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Verdana',Sans-serif;
 
 }
 
 .footerCl{
-    background-color: rgb(122, 168, 255);
+    background-color: rgb(79, 110, 167);
     position: absolute;
     bottom: 0px;
     left:0px;
     width: 100%;
-    font-family: 'Courier New', Courier, monospace;
-    color: black;
+    font-family: 'Verdana',Sans-serif;
+    color: white;
 }
 
 .footerCl2{
@@ -47,7 +47,7 @@ body{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 20px;
+    font-size: 18px;
     width: 15%;
     font-family: inherit;
 }
