@@ -3,7 +3,7 @@ document.getElementById("github_profile").onclick = function(){
 }
 
 function startTime_n(){
-    let time = moment().tz("Europe/Rome").format("hh:mm:ss");
+    let time = moment().tz("Europe/Rome").format("HH:mm:ss");
 
     document.getElementById("clock").textContent = time;
     document.getElementById("clock").innerText = time;
