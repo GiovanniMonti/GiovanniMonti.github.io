@@ -10,9 +10,9 @@ body{
 
 .footerCl{
     background-color: rgb(79, 110, 167);
-    position: absolute;
-    bottom: 0px;
-    left:0px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
     width: 100%;
     font-family: 'Verdana',Sans-serif;
     color: white;
