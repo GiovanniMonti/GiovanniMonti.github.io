@@ -1,2 +1,2 @@
 # GiovanniMonti.github.io
-quick site made to test how github.io works
+quick personal site made to test how github.io & js libraries work
