@@ -19,7 +19,7 @@ function startTime(){
 
 */
 function startTime_n(){
-    let time = moment().tz("Europe/Rome").format("h:m:s");
+    let time = moment().tz("Europe/Rome").format("hh:mm:ss");
 
     document.getElementById("clock").textContent = time;
     document.getElementById("clock").innerText = time;
