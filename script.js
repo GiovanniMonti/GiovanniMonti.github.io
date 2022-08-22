@@ -25,4 +25,5 @@ function startTime_n(){
     document.getElementById("clock").innerText = time;
 
     setTimeout(startTime_n,1000);
-}startTime_n();
+}
+startTime_n();
