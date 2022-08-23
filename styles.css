@@ -30,7 +30,8 @@ body{
     height : 5.5%;
     width : 5.5%;
     flex: 0;
-    margin-left:70%;
+    margin-left:66%;
+    margin-right:2%;
     margin-top: auto;
 
 }
